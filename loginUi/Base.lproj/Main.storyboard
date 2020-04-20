@@ -114,6 +114,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="bg" destination="jhU-1J-jbG" id="6l7-nb-SHj"/>
                         <outlet property="login" destination="lEw-e8-t84" id="8HU-dv-1t0"/>
                         <outlet property="new" destination="o2Z-tf-XTl" id="bwr-ZF-htE"/>
                     </connections>
