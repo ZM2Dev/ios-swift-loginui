@@ -1,4 +1,4 @@
 # swift5-loginui
-Ios App swift 5 for LoginUi example
+Ios App swift 5 for Login Ui example
 
-![](https://github.com/ZM2Dev/ios-swift-loginui/raw/master/screen.png)
+![](https://github.com/devzhr/ios-swift-login-ui/raw/master/screen.png)
